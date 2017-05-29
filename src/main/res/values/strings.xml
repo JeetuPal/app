@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">GetParking</string>
+  <string name="press_back_exit">Press Back again to Exit.</string>
+  <string name="no.data.found">no data found</string>
+  <string name="rupee">\u20B9</string>
+
+  <!--config-->
+  <string name="font_family_medium">sans-serif-medium</string>
+</resources>
